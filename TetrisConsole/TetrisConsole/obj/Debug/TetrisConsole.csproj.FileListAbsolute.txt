@@ -1,0 +1,8 @@
+C:\Users\vikak\source\repos\TetrisConsole\TetrisConsole\bin\Debug\TetrisConsole.exe.config
+C:\Users\vikak\source\repos\TetrisConsole\TetrisConsole\bin\Debug\TetrisConsole.exe
+C:\Users\vikak\source\repos\TetrisConsole\TetrisConsole\bin\Debug\TetrisConsole.pdb
+C:\Users\vikak\source\repos\TetrisConsole\TetrisConsole\obj\Debug\TetrisConsole.csproj.AssemblyReference.cache
+C:\Users\vikak\source\repos\TetrisConsole\TetrisConsole\obj\Debug\TetrisConsole.csproj.CoreCompileInputs.cache
+C:\Users\vikak\source\repos\TetrisConsole\TetrisConsole\obj\Debug\TetrisConsole.exe
+C:\Users\vikak\source\repos\TetrisConsole\TetrisConsole\obj\Debug\TetrisConsole.pdb
+C:\Users\vikak\source\repos\TetrisConsole\TetrisConsole\obj\Debug\TetrisConsole.exe.config
